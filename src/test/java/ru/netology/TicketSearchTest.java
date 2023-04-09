@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class TicketSearchTest {
+package ru.netology;
+public class TicketSearchTest {
+
 }

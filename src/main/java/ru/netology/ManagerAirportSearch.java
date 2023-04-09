@@ -1,4 +1,5 @@
 package ru.netology;
 
-public class AirportSearch {
+public class ManagerAirportSearch {
+
 }

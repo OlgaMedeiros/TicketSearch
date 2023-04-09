@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class RepositoryTicketInformation {
+package ru.netology;
+public class RepositoryTicketInformation {
 }
